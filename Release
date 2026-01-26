@@ -1,0 +1,10 @@
+cat <<EOF > Release
+Origin: PHMMO Repo
+Label: PHMMO
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Kho Tweak rieng cua ThanhTran
+EOF
