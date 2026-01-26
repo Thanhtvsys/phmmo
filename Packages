@@ -27,6 +27,20 @@ Description: MMO Tool chuyen nghiep - Fake Info - Wipe Data - Backup RRS
 Name: PHMMO Tool (Full)
 
 Package: com.ban.phmmo
+Version: 10.1.2-Final-Full
+Architecture: iphoneos-arm
+Maintainer: TeamPH
+Installed-Size: 2316
+Depends: mobilesubstrate
+Filename: ./debs/com.ban.phmmo_10.1.2-Final-Full_iphoneos-arm.deb
+Size: 325384
+MD5sum: 86dc1b3114b9ee08010693db83391ec2
+SHA1: 2f4d5d4f4ac098ae736f547936ec3a8d111c16dd
+SHA256: 582b165f60fdd5eb9b961ec9c9d2330c5cbb9c3e3e091a7e9611390262b6ecb8
+Description: MMO Tool chuyen nghiep - Fake Info - Wipe Data - Backup RRS
+Name: PHMMO Tool (Full)
+
+Package: com.ban.phmmo
 Version: 9.1.13-Final-Full
 Architecture: iphoneos-arm
 Maintainer: TeamPH
