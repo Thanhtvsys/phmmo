@@ -5,10 +5,10 @@ Maintainer: TeamPH
 Installed-Size: 2228
 Depends: mobilesubstrate
 Filename: ./debs/com.teamph.phmmo_10.1.23_iphoneos-arm.deb
-Size: 314464
-MD5sum: 302e40a91ca87020aef7ec0d4e5ec211
-SHA1: 64f361a3cce8dcd50c707f8a0435a60dd9770384
-SHA256: d16847dae54d5099277624671b39962f319bcaafe04e5d5e6e1036a95ddc9bdc
+Size: 314340
+MD5sum: 6b4333a64c0dcde7281981b917bc57b5
+SHA1: acbeaf82f72562cbe6151e750655a74883813e48
+SHA256: 0bed816386a563da70b8b6492e950710caf946bf8175e281e7f376964fc6973a
 Description: MMO Tool chuyen nghiep - Fake Info - Wipe Data
 Name: PHMMO-Tool
 
