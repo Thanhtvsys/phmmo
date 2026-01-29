@@ -587,6 +587,20 @@ Description: MMO Tool chuyen nghiep - Fake Info - Wipe Data
 Name: PHMMO-Tool
 
 Package: com.teamph.phmmo
+Version: 10.2.37
+Architecture: iphoneos-arm
+Maintainer: TeamPH
+Installed-Size: 2828
+Depends: mobilesubstrate
+Filename: ./debs/com.teamph.phmmo_10.2.37_iphoneos-arm.deb
+Size: 357328
+MD5sum: 9ac9206be7e927c263783d3adfec1ae8
+SHA1: 17cad978b84e3a550bb918c1c3cfe1cea8aec79d
+SHA256: 202ff88fc5523554d92cebcb9f75648adc44bb5313006bf933a86bc08804f7b2
+Description: MMO Tool chuyen nghiep - Fake Info - Wipe Data
+Name: PHMMO-Tool
+
+Package: com.teamph.phmmo
 Version: 10.2.4
 Architecture: iphoneos-arm
 Maintainer: TeamPH
