@@ -97,6 +97,20 @@ Description: MMO Tool TEAMPH
 Name: PHMMO-Tool
 
 Package: com.teamph.phmmo
+Version: 11.2.17
+Architecture: iphoneos-arm
+Maintainer: TeamPH
+Installed-Size: 3096
+Depends: mobilesubstrate
+Filename: ./debs/com.teamph.phmmo_11.2.17_iphoneos-arm.deb
+Size: 392360
+MD5sum: af2d3541c234bbe52b0cdcc650878d37
+SHA1: a5586e79ac64e7ea680138ea6d8561f6c7efb8b7
+SHA256: 7cc4268e5ff6a582670fea1034e7f73d2ae04a4e8798c6737fea086914967bbb
+Description: MMO Tool TEAMPH
+Name: PHMMO-Tool
+
+Package: com.teamph.phmmo
 Version: 11.2.5
 Architecture: iphoneos-arm
 Maintainer: TeamPH
