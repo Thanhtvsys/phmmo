@@ -264,3 +264,17 @@ SHA256: 5e8be018a5eaaa5167d5283ef65ad00ef9dd5e0874c165b97687ef9973b54c27
 Description: MMO Tool TEAMPH
 Name: PHMMO-Tool
 
+Package: com.teamph.phmmo
+Version: 11.3.3
+Architecture: iphoneos-arm
+Maintainer: TeamPH
+Installed-Size: 3136
+Depends: mobilesubstrate
+Filename: ./debs/com.teamph.phmmo_11.3.3_iphoneos-arm.deb
+Size: 402178
+MD5sum: 832323505bcb7252197d07f3ca384191
+SHA1: 87457f176d2e3b98bf76a1e11d27b544e1ce9f87
+SHA256: fea7a2308836ff362ab01d5eb28a6ddf3affcc6e8815163cb016473f47f55f71
+Description: MMO Tool TEAMPH
+Name: PHMMO-Tool
+
