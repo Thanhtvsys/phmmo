@@ -1,7 +1,7 @@
 Origin: Thanhtvsys Repo
 Label: Thanhtvsys
 Suite: stable
-Version: 12.1.14
+Version: 12.1.15
 Codename: phmmo
 Architectures: iphoneos-arm iphoneos-arm64
 Components: main
