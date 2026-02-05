@@ -1,8 +1,8 @@
 Origin: Thanhtvsys Repo
 Label: Thanhtvsys
 Suite: stable
-Version: 12.2.4
+Version: 12.2.5
 Codename: phmmo
 Architectures: iphoneos-arm64
 Components: main
-Description: Hệ thống PHMMO chuyên nghiệp - Root Access Fixed
+Description: MMO Tool Root Access Fixed
